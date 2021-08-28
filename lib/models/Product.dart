@@ -4,6 +4,7 @@ class Product {
   Product({this.title, this.image});
 }
 
+// ignore: non_constant_identifier_names
 List<Product> demo_products = [
   Product(title: "Cabbage", image: "assets/images/img_1.png"),
   Product(title: "Broccoli", image: "assets/images/img_2.png"),

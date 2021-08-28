@@ -1,7 +1,6 @@
 import 'package:grocery/components/fav_btn.dart';
 import 'package:grocery/components/price.dart';
 import 'package:grocery/models/Product.dart';
-import 'package:grocery/screens/deatils/details_screen.dart';
 import 'package:flutter/material.dart';
 
 import '../../../constants.dart';
